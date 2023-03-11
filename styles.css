@@ -1,0 +1,54 @@
+*{
+    margin:0;
+  }
+  
+  main{
+    background-color:#eee;
+    margin:30px 5px;
+  }
+  h1{
+    padding:25px 0 15px 0;
+  }
+  header p{
+    padding-bottom:13px;
+  }
+  header{
+    text-align:center;
+  }
+  #img-div{
+    width:95%;
+    height:670px;
+    margin:0 auto;
+    background-color:white;
+    
+  }
+  #image{
+    display:block;
+    width:1000px;
+    margin:0 auto;
+  }
+  #img-caption{
+    text-align:center;
+    padding-top:20px;
+  }
+  #tribute-info{
+    width:500px;
+    margin:40px auto 0;
+    padding:25px 0;
+  }
+  h3{
+    text-align:center;
+    padding-bottom: 20px;
+  }
+  li{
+    margin:12px 0;
+  }
+  span{
+    font-weight:bold;
+  }
+  .words{
+    margin:23px 15px 5px;
+  }
+  .words p{
+    padding:5px;
+  }
